@@ -10,6 +10,14 @@
       "StackName": "amplify-reactamplifyapp-dev-162318",
       "StackId": "arn:aws:cloudformation:us-east-1:101308331326:stack/amplify-reactamplifyapp-dev-162318/b1845580-1f09-11ed-b649-0a01e0cac573",
       "AmplifyAppId": "d2hpp5wk9hotyf"
+    },
+    "categories": {
+      "function": {
+        "peoplefunction": {
+          "deploymentBucketName": "amplify-reactamplifyapp-dev-162318-deployment",
+          "s3Key": "amplify-builds/peoplefunction-4a684b74594977366245-build.zip"
+        }
+      }
     }
   }
 }
